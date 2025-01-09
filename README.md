@@ -66,9 +66,7 @@ Enhance the contract by:
 3. Compile and deploy the contract.
 4. Test using Remix JavaScript VM.
 
-## Deliverables
-- Version 1: Basic smart contract implementation.
-- Version 2: Enhanced implementation with owner restrictions.
+
 
 ---
 
@@ -76,6 +74,5 @@ Enhance the contract by:
 - Solidity
 - Remix IDE
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
